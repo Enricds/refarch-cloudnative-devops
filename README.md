@@ -1,6 +1,6 @@
 # DevOps for Cloud Native Reference Application Enric version
 
-*This project is part of the 'IBM Cloud Native Reference Architecture' suite, available at
+*This project is part of the 'IBM Cloud Native Reference Architecture' suite, modified by Enric, available at
 https://github.com/ibm-cloud-architecture/refarch-cloudnative*
 
 ## Introduction
